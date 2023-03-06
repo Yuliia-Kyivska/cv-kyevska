@@ -2,7 +2,7 @@ const data = {
     "first_name": "Yuliia",
     "last_name": "Kyivska",
     "job_title": "Full Stuck Developer",
-    "photo": "/images/w1.jpg",
+    "photo": "./images/w1.jpg",
     "adressphone": "+380993106338",
     "phone": "+38 (099) 310 63 38",
     "email": "kiev.lia@gmail.com",
